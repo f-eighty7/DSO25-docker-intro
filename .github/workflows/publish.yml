@@ -24,4 +24,4 @@ jobs:
               with:
                   context: .
                   push: true
-                  tags: f-eighty7/dso25-docker:latest
+                  tags: feighty7/dso25-docker:latest
