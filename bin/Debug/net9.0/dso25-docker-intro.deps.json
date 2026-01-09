@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "dso25-docker-intro/1.0.0": {
+        "runtime": {
+          "dso25-docker-intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dso25-docker-intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

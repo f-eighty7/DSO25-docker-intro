@@ -1,0 +1,14 @@
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\bin\Debug\net9.0\dso25-docker-intro.exe
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\bin\Debug\net9.0\dso25-docker-intro.deps.json
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\bin\Debug\net9.0\dso25-docker-intro.runtimeconfig.json
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\bin\Debug\net9.0\dso25-docker-intro.dll
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\bin\Debug\net9.0\dso25-docker-intro.pdb
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.AssemblyInfoInputs.cache
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.AssemblyInfo.cs
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.csproj.CoreCompileInputs.cache
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.dll
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\refint\dso25-docker-intro.dll
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.pdb
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\dso25-docker-intro.genruntimeconfig.cache
+C:\Users\AK\devops-journey\KYH\CICD\dso25-docker-intro\obj\Debug\net9.0\ref\dso25-docker-intro.dll
